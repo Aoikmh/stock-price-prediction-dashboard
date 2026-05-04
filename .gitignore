@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (optional but recommended)
+data/*.csv
+
+# Environment variables
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
